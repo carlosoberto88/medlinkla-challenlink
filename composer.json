@@ -1,0 +1,12 @@
+{
+    "name": "medialink/challenlink",
+    "description": "Solutions to the Challenlink PHP challenge.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Medialink\\": "src/"
+        }
+    },
+    "license": "MIT"
+} 
