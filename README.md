@@ -33,4 +33,4 @@ This repository contains solutions to the Challenlink PHP challenge, focusing on
 - PHPDoc comments are provided for clarity.
 
 ---
-For any questions, contact: erick@medlink.la 
+For any questions, contact: carlos.oberto88@gmail.com
